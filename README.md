@@ -1,6 +1,7 @@
 
 ### I am Asgar
-A Cybersecurity professional with specialization in **Digital Forensics and Incident Response (DFIR)**. I have experience defending enterprise grade networks, and cloud resources. This is my research platform where I present my findings. In-depth technical documentations are available in my [GitHub](https://github.com/lance-terminal). 
+A Cybersecurity professional with specialization in **Digital Forensics and Incident Response (DFIR)**. I have experience defending enterprise grade networks, and cloud resources. This is my research platform where I present my findings. In-depth technical documentations are available in my repositories.
+
 ### Credentials
 - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/d2d01ae1-297d-4b64-b0ea-e95d584e10ec/public_url)
 - [GIAC Certified Intrusion Analyst (GCIA)](https://www.credly.com/badges/9b3a8315-373d-468d-aa01-ed422e7876c4/public_url)
