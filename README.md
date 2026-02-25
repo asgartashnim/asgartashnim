@@ -1,6 +1,6 @@
 
 ### I am Asgar
-A Cybersecurity professional with specialization in **Digital Forensics and Incident Response (DFIR)**. I have experience defending enterprise grade networks, and cloud resources. I am a developer and researcher.
+A Cybersecurity professional with specialization in **Digital Forensics and Incident Response (DFIR)**. I have experience defending enterprise grade networks, and cloud resources. I am a developer and a researcher.
 
 ### Credentials
 - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/d2d01ae1-297d-4b64-b0ea-e95d584e10ec/public_url)
