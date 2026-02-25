@@ -1,4 +1,4 @@
-baseURL = 'https://lanceterminal.github.io/asgar/'
+baseURL = 'https://lanceterminal.github.io/lanceterminal/'
 languageCode = 'en-us'
 title = 'Asgar'
 theme = "poison"
