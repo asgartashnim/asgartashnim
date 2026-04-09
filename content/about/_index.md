@@ -3,8 +3,14 @@ draft = false
 title = 'About'
 +++
 
-### I am Asgar
-As a Cybersecurity Professional, I specialize in **Digital Forensics and Incident Response (DFIR)**. I have experience defending enterprise networks, enpoints, identity, and cloud resources. I am experienced in successfully leading end-to-end response for multi-million dollar enterprises in eradicating ransomware attacks, business email compromise (BEC), cloud resource abuse, and command-and-control (C2) activities.
+Cybersecurity professional specializing in Digital Forensics,
+Incident Response, and Detection Engineering across endpoint,
+identity, and cloud environments.
+
+Led end-to-end ransomware response in Azure-hosted environments,
+eliminated $46,000 in cloud cost exposure through threat hunting,
+and reduced false positive alert volume by 81% through detection
+engineering. SANS NetWars Tournament of Champions 2025 Finalist.
 
 ### Credentials
 - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/d2d01ae1-297d-4b64-b0ea-e95d584e10ec/public_url)
