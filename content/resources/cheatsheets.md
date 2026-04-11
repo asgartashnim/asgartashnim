@@ -2,7 +2,7 @@
 draft = false
 title = "Reference Guides (Cheatsheets)"
 date = 2026-04-11
-tags = ["References", "Field Note"]
+tags = ["Reference", "Field Note"]
 +++
 
 ## Placeholder
