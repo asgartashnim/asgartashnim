@@ -27,7 +27,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 
     # Links to your socials.  Comment or delete any you don't need/use. 
-    email_url = "mailto:contact@asgar.net"
+    email_url = "mailto:tashnim@asgar.net"
+    substack_url = "https://yourname.substack.com"
     github_url = "https://github.com/lanceterminal/"
     linkedin_url = "https://linkedin.com/in/asgartashnim"
     x_url = "https://x.com/lancetermina1"
